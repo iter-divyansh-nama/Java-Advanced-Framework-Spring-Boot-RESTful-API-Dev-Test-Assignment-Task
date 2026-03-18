@@ -1,0 +1,10 @@
+{
+  "studentId" : 1,
+  "studentName" : "Raja",
+  "email" : "raja@gmail.com",
+  "phone" : 9876543210,
+  "project" : {
+    "projectId" : 101,
+    "projectName" : "AI System"
+  }
+}
